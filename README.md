@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Anurag Maurya<br>🌱 I’m currently a Full Stack Developer.<br>📫 Reach me at work.anuragmaurya@gmail.com<br>🌐 Projects : https://anuragmaurya.me/
+👋 Hi, I’m Anurag Maurya<br>🌱 I’m currently a Full Stack Developer.<br>📫 Reach me at work.anuragmaurya@gmail.com<br>🌐 Projects : https://anuragmaurya.com/
 
 
 ## 🌐 Socials:
